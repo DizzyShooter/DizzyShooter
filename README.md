@@ -1,9 +1,6 @@
 <h1 align="center">Rogger Villanueva</h1>
 <h3 align="center">Ingeniería Empresarial y de Sistemas | Automatización, Ciberseguridad e IA</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=REEMPLAZAR_POR_TU_USUARIO&label=Visitas&color=0e75b6&style=for-the-badge" alt="Visitas al perfil" />
-</p>
 
 <p align="center">
   <a href="mailto:tu.correo@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
