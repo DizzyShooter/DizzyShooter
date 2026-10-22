@@ -5,8 +5,8 @@
 </p>
 
 <p align="left">
-  <a href="https://github.com/TU_USUARIO"><img alt="GitHub" src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/TU_USUARIO"><img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/https://github.com/DizzyShooter"><img alt="GitHub" src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/www.linkedin.com/in/rogger-villanueva"><img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:tu.roggervillanueva.e@gmail.com"><img alt="Email" src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -101,6 +101,5 @@ DATABASE
 ### ✦ Estadísticas de Actividad
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=dizzyshooter&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=a3a3a3&icon_color=ffffff" alt="Estadísticas de GitHub" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dizzyshooter&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=a3a3a3" alt="Lenguajes más usados" />
 </p>
